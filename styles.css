@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+table{
+	color:white;
+	background-color:black;
+	margin:0;
+	padding:0;
+	width:500px;
+	height:100px;
+}
+.r1{
+	margin:0;
+	padding:0;
+	background-color:burlywood;
+}
+.r2{
+	background-color:indianred;
+}
+.r3{
+	background-color:hotpink;
+}
+.r4{
+	background-color:skyblue;
+}
